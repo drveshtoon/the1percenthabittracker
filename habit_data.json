@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Drink Water",
+    "description": "Drink 8 glasses of water daily.",
+    "periodicity": "daily",
+    "created_date": "2023-07-02",
+    "completions": []
+  },
+  {
+    "name": "Exercise",
+    "description": "Exercise for 30 minutes daily.",
+    "periodicity": "daily",
+    "created_date": "2023-07-02",
+    "completions": []
+  },
+  {
+    "name": "Reading",
+    "description": "Read for 1 hour daily.",
+    "periodicity": "daily",
+    "created_date": "2023-07-02",
+    "completions": []
+  },
+  {
+    "name": "Learn a new Language",
+    "description": "Spend 2 hours weekly on learning a new language",
+    "periodicity": "weekly",
+    "created_date": "2023-07-02",
+    "completions": []
+  },
+  {
+    "name": "Gratitude Journaling",
+    "description": "Write in your gratitude journal for 15 minutes daily.",
+    "periodicity": "daily",
+    "created_date": "2023-07-02",
+    "completions": []
+  }
+]
