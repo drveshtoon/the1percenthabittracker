@@ -17,7 +17,7 @@ The 1% is a simple and effective habit tracking app that allows users to define 
 Follow the steps below to set up and use [Your App's Name]:
 
 1. Clone this GitHub repository to your local machine:
-https://github.com/drveshtoon/HabitTracker.git
+https://github.com/drveshtoon/the1percenthabittracker.git
 2. Install the required dependencies:
 pip install -r requirements.txt
 3. Run the habit tracking app:
@@ -32,7 +32,7 @@ The 1% comes with 5 predefined habits, including a mix of weekly and daily habit
 
 The app uses SQLite as its database to store habit data persistently between sessions. This ensures that your habits are saved and available across different sessions.
 
-## Abstract
+
 
 For a detailed breakdown of the technical approach and reflections on the project, please refer to the [Abstract PDF](file:///C:/Users/HP/Documents/Nisar_Zainab_92129447_Object%20Oriented%20and%20Functional%20Programming%20with%20Python_Habits_Submission_Abstract.pdf).
 
